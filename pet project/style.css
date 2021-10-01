@@ -1,0 +1,37 @@
+.column {
+    background: red;
+    width: 250px;
+    bottom: 0;
+    float: right;
+    height: 100vh;
+}
+
+.column__two {
+    background: black;
+    bottom: 0;
+    height: 100vh;
+}
+.header {
+    position: absolute;
+    top: 0;
+    background: lime;
+    height: 100px;
+    float: left;
+   width: 100%;
+}
+
+.footer {
+   bottom: 0;
+   background: lightslategray;
+   height: 100px;
+   float: left;
+   width: 100%;
+}
+
+.column__three {
+    background: red;
+    width: 250px;
+    bottom: 0;
+    float: left;
+    height: 100vh;
+}
